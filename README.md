@@ -30,4 +30,4 @@ Access to a terminal or command prompt
 
 
 
-programı istediğinz gibi katkıda bulunabilirsiniz
+programa istediğinz gibi katkıda bulunabilirsiniz ama beni ana yapımcı olarak kabul etmelisiniz
