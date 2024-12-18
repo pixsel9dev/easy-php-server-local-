@@ -26,3 +26,8 @@ System Requirements
 Python 3.x
 PHP must be installed. (You can check if PHP is installed with the php -v command)
 Access to a terminal or command prompt
+
+
+
+
+programı istediğinz gibi katkıda bulunabilirsiniz
